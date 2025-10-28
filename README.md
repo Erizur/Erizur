@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/user-attachments/assets/21c8ab1f-e039-4ed2-9ed1-d283677c8bd5" width="200" height="200" alt="Zyde is sleeping..." align="right" valign="middle">
+  <img src="https://github.com/user-attachments/assets/21c8ab1f-e039-4ed2-9ed1-d283677c8bd5" width="22%" hspace="200" alt="Zyde is sleeping..." align="right">
   <div align="center">
     <i>I feel that I have many things I must tell you<br>
     But I don't know what that is<br>
