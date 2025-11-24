@@ -16,7 +16,7 @@
 </div>
 <br clear="both">
 <p align="center">
-  <a href="https://erizur.github.io/">Website</a> ● <a href="https://youtube.com/am_erizur">Youtube</a>
+  <a href="https://amerizur.com/">Website</a> ● <a href="https://youtube.com/am_erizur">Youtube</a>
 </p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e26bee8-0682-406d-9106-64287eb0f47f" alt="me irl">
